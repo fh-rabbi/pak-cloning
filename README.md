@@ -16,7 +16,7 @@ pkg install python
 pkg install python2
 pip2 install requests
 pip2 install mechanize
-git clone http://github.com/fh-rabby/pak clone
+git clone http://github.com/fh-rabbi/pak-cloning
 cd pak clone
 ls
 python2 pakclone.py
